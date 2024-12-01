@@ -1,7 +1,7 @@
 <h1 align="center">Data Pipeline With Databricks</h1>  
 <h3 align="center">From API streaming data and CSV batch data to Star Schema and OBT models</h3>  
 
-![Data Pipeline Diagram](https://raw.githubusercontent.com/jmcabreira/DataPipeline-DataBricks/main/Images/Captura%20de%20Tela%202024-12-01%20%C3%A0s%2006.14.01.png)
+![Data Pipeline Diagram](https://github.com/jmcabreira/DataPipeline-DataBricks/blob/main/Images/proj_architecture.png)
 <h2 align="left">Steps:
 </h2>  
 
