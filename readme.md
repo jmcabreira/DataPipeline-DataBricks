@@ -5,9 +5,9 @@
 <h2 align="left">Steps:
 </h2>  
 
-- Load API Streaming data and csv bach data to delta tables in bronze zone 
+1. Load API Streaming data and csv bach data to delta tables in bronze zone 
 
-- Build tables in Silver Zone 
+2. Build tables in Silver Zone 
 
 	- tb_sales
 	
@@ -19,7 +19,7 @@
 	
 	- tb_courses
 
-* Create two data models
+3. Create two data models
 
 	* Star Schema 
  
@@ -53,5 +53,9 @@
 
 - **Structured Streaming in Spark** provides a high-level API for stream processing, which can be used to process both real-time (streaming) and historical (batch) data. By treating streaming data in micro-batches, you make it easier to apply batch-processing techniques to real-time data. This approach simplifies handling API data, enabling you to use the same pipeline and techniques for both data types.
 
-  
+
+<h3 align="left">Source and References:</h3>  
+
+- This project is part of the mentoring program led by [Arthur Luz](https://www.linkedin.com/in/arthurluz). All the content and concepts discussed in this project are aligned with the program's teachings.
+
 
